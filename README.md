@@ -9,7 +9,7 @@ My first repository
 **Business Proposal**
 **Cast**
 1. Kang-Tae Moo
-2. Shin Ha-ri
+2. Shin Ha-ri 
 3. Cha Sung-hoon
 4. Jin Young-seo
 
@@ -24,5 +24,5 @@ My first repository
 2. Hae Soo
 3. Prince Wang Wook
 4. 14th Prince Wang Jung
-5. !0th Prince Wang Eun 
+5. 10th Prince Wang Eun 
 6. Prince Baek-ah  
