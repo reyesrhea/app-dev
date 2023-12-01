@@ -24,5 +24,5 @@ My first repository
 2. Hae Soo
 3. Prince Wang Wook
 4. 14th Prince Wang Jung
-5. !0th Prince Wang Eun
+5. !0th Prince Wang Eun 
 6. Prince Baek-ah  
