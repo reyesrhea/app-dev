@@ -7,7 +7,7 @@ My first repository
 **Business Proposal**
 **Cast**
 1. Kang-Tae Moo
-2. Shin Ha-ri
+2. Shin Ha-ri 
 3. Cha Sung-hoon
 4. Jin Young-seo
 **Our Beloved Summer**
